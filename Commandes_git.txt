@@ -1,0 +1,8 @@
+# Ajouter/supprimer des derniers fichiers/dossiers
+git add .
+
+# Appliquer les mises à jour internes aux fichiers en ajoutant un message de description
+git commit -m "update"
+
+# Envoyer toutes les changements du commit sur github dans la branche main du github
+git push origin main 
